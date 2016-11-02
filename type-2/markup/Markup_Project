@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+  <title>Markup Project</title>
+  </head>
+  <style>
+    .rb{
+display: block;
+    font-size: 3em;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    letter-spacing: .3em;
+    color: white;
+    background-color: black;
+      
+      .h3{
+display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+      font-weight: bold;
+    }
+     
+
+
+  </style>
+  <body>
+<font face="Arcon">
+  <p><span class="rb">Markup Project</span>
+   <br> <a href="https://bambsy.github.io/type-2/markup/Resources.html">Resources page</a>
+ <br><a href="https://bambsy.github.io/type-2/markup/Album_Project.html"><span class="h3">Album Project</span></a>
+    <br><a href="https://bambsy.github.io/type-2/markup/Resources.html"><span class="h3">Markup Project</span></a>
+  
+  </p></font>
+  </body>
+  
